@@ -1,0 +1,6 @@
+{
+	"require": {
+		"swiftmailer/swiftmailer": "@stable",
+		"mongodb/mongodb": "^1.1"
+	}
+}
